@@ -1,2 +1,2 @@
 # CDRPT1
-Calculado de Risco para Trade 
+Calculadora de Risco para Trade 
